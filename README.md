@@ -1,4 +1,4 @@
-# Networkd-of-Technologies
+# Network-of-Technologies
 A network analysis of the network of technologies used by developers. Data acquired by Stack Overflow Developer Stories' Tags.
 
 Includes raw subsets of the original data from the Stack Overflow, published on Kaggle.
